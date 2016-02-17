@@ -1,6 +1,6 @@
 'use strict';
 
-const AMX = require('../node-amx/amx').AMX;
+const AMX = require('./node-amx/amx').AMX;
 const randlib = require('./random');
 const fs = require('fs');
 const child_process = require('child_process');
